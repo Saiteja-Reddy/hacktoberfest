@@ -26,7 +26,7 @@
 - GitHub: [DHDaniel](https://github.com/DHDaniel)
 
 #### Name: [Clark Weckmann](https://github.com/clarkhacks)
-- Place: Illinois, USA
+- Place: Illis, USA
 - Bio: Design, Develop, Produce!
 - GitHub: [ClarkHacks](https://github.com/clarkhacks)
 
