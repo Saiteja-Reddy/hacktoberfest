@@ -31,7 +31,7 @@
 - GitHub: [ClarkHacks](https://github.com/clarkhacks)
 
 #### Name: [ Kumar](https://github.com/mintoo511)
-- Place: New Delhi, India
+- Place: Newelhi, India
 - Bio: Software Engineer
 - GitHub: [mintoo511](https://github.com/mintoo511)
 
