@@ -15,7 +15,7 @@
  - Bio: Front-end developer
  - GitHub: [omidnikrah](https://github.com/omidnikrah)
  
-#### Name: [Deepika Sunhare](https://github.com/deepikasunhare) 
+#### Name: [ Sunhare](https://github.com/deepikasunhare) 
   - Place: Indore, India 
   - Bio: Engineering Student @ IET DAVV Indore 
   - Github: [deepikasunhare](https://github.com/deepikasunhare)
