@@ -6,7 +6,7 @@
 #### Name: [Sath](https://github.com/deepikasunhare)
   - Place: Indore, India
 
-#### Name: [Deepika Sunhare](https://github.com/deepikasunhare)
+#### Name: [ Sunhare](https://github.com/deepikasunhare)
   - Place: Indore, India
   - Bio: Engineering Student @ IET DAVV Indore
  
