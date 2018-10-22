@@ -6,16 +6,16 @@
 #### Name: [Sath](https://github.com/deepikasunhare)
   - Place: Indore, India
 
-#### Name: [Deepika Sunhare](https://github.com/deepikasunhare)
+#### Name: [ Sunhare](https://github.com/deepikasunhare)
   - Place: Indore, India
   - Bio: Engineering Student @ IET DAVV Indore
  
-#### Name: [Omid Nikrah](https://github.com/omidnikrah)		
+#### Name: [ Nikrah](https://github.com/omidnikrah)		
  - Place: Tehran, Tehran, Iran	
  - Bio: Front-end developer
  - GitHub: [omidnikrah](https://github.com/omidnikrah)
  
-#### Name: [Deepika Sunhare](https://github.com/deepikasunhare) 
+#### Name: [ Sunhare](https://github.com/deepikasunhare) 
   - Place: Indore, India 
   - Bio: Engineering Student @ IET DAVV Indore 
   - Github: [deepikasunhare](https://github.com/deepikasunhare)
