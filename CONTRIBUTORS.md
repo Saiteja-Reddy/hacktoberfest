@@ -26,11 +26,11 @@
 - GitHub: [DHDaniel](https://github.com/DHDaniel)
 
 #### Name: [Clark Weckmann](https://github.com/clarkhacks)
-- Place: Illinois, USA
+- Place: Illis, USA
 - Bio: Design, Develop, Produce!
 - GitHub: [ClarkHacks](https://github.com/clarkhacks)
 
-#### Name: [Mintoo Kumar](https://github.com/mintoo511)
+#### Name: [ Kumar](https://github.com/mintoo511)
 - Place: New Delhi, India
 - Bio: Software Engineer
 - GitHub: [mintoo511](https://github.com/mintoo511)
